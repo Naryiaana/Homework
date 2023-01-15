@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\bin\Debug\net6.0\HomeworkFromSeminar4.exe
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\bin\Debug\net6.0\HomeworkFromSeminar4.deps.json
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\bin\Debug\net6.0\HomeworkFromSeminar4.runtimeconfig.json
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\bin\Debug\net6.0\HomeworkFromSeminar4.dll
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\bin\Debug\net6.0\HomeworkFromSeminar4.pdb
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.dll
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\refint\HomeworkFromSeminar4.dll
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.pdb
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\HomeworkFromSeminar4.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Homework\HomeworkFromSeminar4\obj\Debug\net6.0\ref\HomeworkFromSeminar4.dll
