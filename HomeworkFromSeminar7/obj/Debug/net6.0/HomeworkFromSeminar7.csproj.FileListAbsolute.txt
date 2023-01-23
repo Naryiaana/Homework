@@ -1,0 +1,15 @@
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\bin\Debug\net6.0\HomeworkFromSeminar7.exe
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\bin\Debug\net6.0\HomeworkFromSeminar7.deps.json
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\bin\Debug\net6.0\HomeworkFromSeminar7.runtimeconfig.json
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\bin\Debug\net6.0\HomeworkFromSeminar7.dll
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\bin\Debug\net6.0\HomeworkFromSeminar7.pdb
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.csproj.AssemblyReference.cache
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.AssemblyInfoInputs.cache
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.AssemblyInfo.cs
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.csproj.CoreCompileInputs.cache
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.dll
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\refint\HomeworkFromSeminar7.dll
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.pdb
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\HomeworkFromSeminar7.genruntimeconfig.cache
+C:\Users\naryy\OneDrive\Рабочий стол\Developer\1\Homework\HomeworkFromSeminar7\obj\Debug\net6.0\ref\HomeworkFromSeminar7.dll
